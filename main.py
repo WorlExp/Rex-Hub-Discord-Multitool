@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 ╔══════════════════════════════════════╗
-║   NEXUS DISCORD MULTITOOL v1.0       ║
+║   REX DISCORD MULTITOOL v1.0       ║
 ║   150 Özellik | Modüller Otomatik    ║
 ╚══════════════════════════════════════╝
 """
